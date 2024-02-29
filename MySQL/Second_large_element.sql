@@ -1,0 +1,1 @@
+select * from customer order by Amount asc limit 1,1;
