@@ -43,5 +43,10 @@ Python File:- [Amstrong Number](Python/Amstrong.py)</br>
 $\color{blue}{Palindrome}$:- if a string mean to be Palindromewhich reverse of string is equal to original string</br>
               Example:- madam==madam (palindrome)
               asdc != cdsa(not a palindrome)</br>
-Java File:- [Amstrong Number](Java/Palindrome.java)</br>
-Python File:- [Amstrong Number](Python/Palindrome.py)</br>
+Java File:- [Palindrome](Java/Palindrome.java)</br>
+Python File:- [Palindrome](Python/Palindrome.py)</br>
+
+## Second Largest Element In Data
+$\color{blue}{Second\ Largest\ Element}$ :- We Can get Second largest data by setting the table in assending order then use the limit function
+limit Syntax of a limit will be limit a,b which a refers to Skip a rows and print b rows.</br>
+MySQL File:- [Sencond large Element](MySQL/Second_large_element.sql)</br>
