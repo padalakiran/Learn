@@ -37,3 +37,10 @@ Python File:- [Binary Search](Python/BinarySearch.py)</br>
                                   =153 : hence it is a amstrong Number</br>
 Java File:- [Amstrong Number](Java/Amstrong.java)</br>
 Python File:- [Amstrong Number](Python/Amstrong.py)</br>
+
+## Palindrome
+$\color{blue}{Palindrome}$:- if a string mean to be Palindromewhich reverse of string is equal to original string</br>
+              Example:- madam==madam (palindrome)
+              asdc != cdsa(not a palindrome)</br>
+Java File:- [Amstrong Number](Java/Palindrome.java)</br>
+Python File:- [Amstrong Number](Python/Palindrome.py)</br>
