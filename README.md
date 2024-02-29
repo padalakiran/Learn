@@ -4,6 +4,7 @@
 Repository Consist of Both Java and Python Files which Answers For the Questions using Java and Python</br>
 And Some MySQL Commands will be there in the Repository
 </br>
+Codes Covered in the repository given below</br>
 ## Bubble Sort
 $\color{blue}{Bubble\ Sort}$:- it is a sorting technique used to sort list/array By iterarting and comparing through each element time complexity will be O(n^2)</br>
 Java File:- [Bubble Sort](Java/BubbleSort.java)</br>
