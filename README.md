@@ -51,3 +51,11 @@ Python File:- [Palindrome](Python/Palindrome.py)</br>
 $\color{blue}{Second\ Largest\ Element}$ :- We Can get Second largest data by setting the table in assending order then use the limit function
 limit Syntax of a limit will be limit a,b which a refers to Skip a rows and print b rows.</br>
 MySQL File:- [Sencond large Element](MySQL/Second_large_element.sql)</br>
+
+## WiggleSort
+$\color{blue}{Wiggle\ Sort}$:- odd index numbers should always greater than equal to
+               previous numburs and even index numbers should always
+                less than equal to next index numbers</br>
+For wigglesort we do iterate through array and swaping numbers</br>
+Java File:- [Wiggle Sort](Java/WiggleSort.java)</br>
+Python File:- [Wiggle Sort](Python/wigglesort.py)</br>
