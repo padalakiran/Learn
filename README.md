@@ -59,3 +59,10 @@ $\color{blue}{Wiggle\ Sort}$:- odd index numbers should always greater than equa
 For wigglesort we do iterate through array and swaping numbers</br>
 Java File:- [Wiggle Sort](Java/WiggleSort.java)</br>
 Python File:- [Wiggle Sort](Python/wigglesort.py)</br>
+
+## SQL Joins
+A JOIN clause is used to combine rows from two or more tables, based on a related column between them.</br>
+[Inner Join](MySQL/Innerjoin.sql):- Returns records that have matching values in both tables</br>
+[Left Join](MySQL/LeftJoin.sql):- Returns all records from the left table, and the matched records from the right table</br>
+[Right Join](MySQL/RightJoin.sql):- Returns all records from the right table, and the matched records from the left table</br>
+[Full Join](MySQL/FullJoin.sql):- Returns all records when there is a match in either left or right table</br>
