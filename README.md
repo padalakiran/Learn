@@ -1,4 +1,5 @@
-> [!note]  
+> [!note]
+> All Files Are build and Run By using Online/local Environment Change According to Your Environment
 ## Learn
 Repository Consist of Both Java and Python Files which Answers For the Questions using Java and Python</br>
 And Some MySQL Commands will be there in the Repository
