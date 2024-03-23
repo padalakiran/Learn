@@ -1,4 +1,4 @@
-
+> [!note]  
 ## Learn
 Repository Consist of Both Java and Python Files which Answers For the Questions using Java and Python</br>
 And Some MySQL Commands will be there in the Repository
