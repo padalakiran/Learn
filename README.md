@@ -67,3 +67,5 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 [Left Join](MySQL/LeftJoin.sql):- Returns all records from the left table, and the matched records from the right table</br>
 [Right Join](MySQL/RightJoin.sql):- Returns all records from the right table, and the matched records from the left table</br>
 [Full Join](MySQL/FullJoin.sql):- Returns all records when there is a match in either left or right table</br>
+
+## String Comparison
