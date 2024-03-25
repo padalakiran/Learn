@@ -3,4 +3,4 @@ try:
 except Exception as e:
     print(e)
 finally:
-    print("sthjkl;")
+    print("Finally Block")
