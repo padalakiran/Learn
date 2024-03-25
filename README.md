@@ -69,6 +69,17 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 [Full Join](MySQL/FullJoin.sql):- Returns all records when there is a match in either left or right table</br>
 
 ## String Comparison
+Compare two Strings word to word and returns the extra element which does not present another string</br>
+Java File:- [StringComparison](Java/StringComparison.java)</br>
+Java File:- [StringComparison](Java/StringComparison.py)</br>
 ## Error Handling
+Error Handling refers to the process of detecting, managing, and resolving errors and exceptions that occur during data processing and analytics. and it rersolves using try, Except block.</br>
+Java File:- [ErrorHandling](Java/TryException.java)</br>
+Java File:- [ErrorHandling](Java/TryException.py)</br>
 ## ArrayList
+The ArrayList class is a resizable array, which can be found in the java.util package.
+The difference between a built-in array and an ArrayList in Java, is that the size of an array cannot be modified (if you want to add or remove elements to/from an array, you have to create a new one). While elements can be added and removed from an ArrayList whenever you want</br>
+Java File:- [ArrayList](Java/Arraylists.java)</br>
 ## HashSet
+A HashSet is a collection of items where every item is unique, and it is found in the java.util package</br>
+Java File:- [HashSet](Java/Hashsets.java)</br>
