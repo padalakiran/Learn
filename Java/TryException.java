@@ -9,7 +9,7 @@ public class TryException
         }catch(Exception e){
             System.out.println(e);
         }finally{
-            System.out.println("Sucuss");
+            System.out.println("Finally Block");
         }
     }
 }
