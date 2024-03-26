@@ -83,3 +83,4 @@ Java File:- [ArrayList](Java/Arraylists.java)</br>
 ## HashSet
 A HashSet is a collection of items where every item is unique, and it is found in the java.util package</br>
 Java File:- [HashSet](Java/Hashsets.java)</br>
+## HashMap
